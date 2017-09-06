@@ -33,7 +33,7 @@ void setup()
 void loop()
 {
   float flat, flon;
-  unsigned long age, date, time, chars = 0;
+  unsigned long age, chars = 0;
   unsigned short sentences = 0, failed = 0;
   static const double LONDON_LAT = 51.508131, LONDON_LON = -0.128002;
   
