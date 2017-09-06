@@ -1,5 +1,4 @@
 #include <TinyGPS.h>
-#include <avr\pgmspace.h>
 
 /* This sample code demonstrates the basic use of a TinyGPS object.
    Typically, you would feed it characters from a serial GPS device, but 
